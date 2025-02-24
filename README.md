@@ -24,8 +24,6 @@ Proyecto Adres es una aplicación web diseñada para validar y procesar archivos
 
 - **docs/api_reference.md**: Documenta los endpoints de la API y su uso.
 
-- **docs/contributing.md**: Describe las pautas para contribuir al proyecto.
-
 - **requirements.txt**: Lista las dependencias de Python requeridas para el proyecto.
 
 ## Cómo Empezar
