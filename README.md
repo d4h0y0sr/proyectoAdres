@@ -30,16 +30,12 @@ Proyecto Adres es una aplicación web diseñada para validar y procesar archivos
 
 ## Cómo Empezar
 
-1. Clona el repositorio:
-   ```
-   git clone <URL del repositorio>
-   ```
+1. Clona o descarga este repositorio:
 
 2. Navega al directorio del proyecto:
    ```
-   cd {ubicacion del proyecto}\proyectoAdres
+   cd inserte-ubicación-del-proyecto\proyectoAdres
    ```
-
 3. Instala las dependencias:
    ```
    pip install -r requirements.txt
@@ -50,4 +46,4 @@ Proyecto Adres es una aplicación web diseñada para validar y procesar archivos
    python manage.py runserver
    ```
 
-5. Accede a la aplicación en tu navegador en `http://127.0.0.1:8000` o `http://Localhost:8000`.
+5. Accede a la aplicación en tu navegador en `http://127.0.0.1:8000`
